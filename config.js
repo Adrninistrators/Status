@@ -25,7 +25,7 @@ window.Config = {
   Navi: [
     {
       text: 'TCat云服务',
-      url: 'https://tcat.li'
+      url: 'https://tcat.ltd'
     }
   ]
 };
